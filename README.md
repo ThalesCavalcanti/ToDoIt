@@ -33,7 +33,7 @@ Este é um aplicativo simples de lista de tarefas (To-Do) desenvolvido com Flutt
 ### Passos
 
 ```bash
-git clone https://github.com/seu-usuario/flutter-todo-app.git
-cd flutter-todo-app
+git clone https://github.com/seu-usuario/ToDoIt.git
+cd ToDoIt
 flutter pub get
 flutter run
