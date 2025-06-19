@@ -1,4 +1,4 @@
-# To-Do App Flutter (Android)
+# ToDoIt App Flutter (Android)
 
 Este é um aplicativo simples de lista de tarefas (To-Do) desenvolvido com Flutter, com foco em usabilidade, acessibilidade e animações suaves. O projeto é compatível com celulares e tablets Android.
 
